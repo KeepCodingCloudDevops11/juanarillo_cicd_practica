@@ -2,4 +2,3 @@
 
 Práctica de Juan Arillo para el módulo de Ciclo de Vida de un desarrollo - CICD
 
-Añadiendo nuevo texto de prueba.
